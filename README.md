@@ -9,6 +9,7 @@ This is an Automation Testing Project for https://demo.nopcommerce.com/
 * Java programming language
 * Selenium
 * Cucumber TestNG
+* Cucumber Reports
 * Maven 
 * POM Design Pattern Architecture
 
