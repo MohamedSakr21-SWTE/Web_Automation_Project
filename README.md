@@ -1,5 +1,5 @@
 # Project Title
-Web_Automation_Project
+Web Automation Project
 
 
 # Description
@@ -22,5 +22,4 @@ This is an Automation Testing Project for https://demo.nopcommerce.com/
 * FollowUs Links
 * Wishlist
 
-# Authors
-Mohamed Mahmoud Sakr
+
