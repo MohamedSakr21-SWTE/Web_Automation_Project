@@ -1,4 +1,4 @@
-@smokexx
+@smoke
 Feature: F08_Wishlist | user click on a products wishlist button
 
   Scenario: user click on wishlist product button and shows success message
