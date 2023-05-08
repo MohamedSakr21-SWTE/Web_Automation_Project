@@ -18,7 +18,7 @@ This is an Automation Testing Project for https://demo.nopcommerce.com/
 * Registration
 * Login
 * Currencies
-* Seacrh 
+* Search
 * Category Hover
 * Home Slider
 * FollowUs Links
